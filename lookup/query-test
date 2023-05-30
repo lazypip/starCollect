@@ -1,0 +1,19 @@
+table = 'hostinfo'
+ip_str = '98.97.96.180'
+subnet = '98.97.96.0'
+prefix = '28'
+
+res_filter = ['transport', 'port', 'os', 'product', 'module', 'tls_version']
+info = ['tcp', '4433', 'SonicWall SonicOS 6.x', 'SonicWall', 'https-simple-new', 'TLSv1.2']
+info = ['tcp', '541', '', '', 'auto', '']
+info = ["'" + ele + "'" for ele in info]
+
+query_base = "INSERT IGNORE into {} \
+    (ip, subnet, prefix, {}) \
+    values \
+    ('{}', '{}', '{}', {});"
+query = query_base.format(table, ', '.join(res_filter), ip_str, subnet, prefix, ", ".join(info))
+
+print(query_base)
+print()
+print(query)

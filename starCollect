@@ -1,0 +1,69 @@
+#!/bin/bash
+
+# banner
+echo -e '---starCollect: collect starlink network data---'
+date
+
+# for nohup
+source ./token
+
+# source ./token
+if [ ! $token_ipinfo ]; then
+        echo 'no token env'
+        echo -e 'usage: source ./token \n./starCollect'
+        exit 1
+fi
+
+
+# para
+# token: token_ipinfo, token_ipinfo_free, token_shodan
+starlink_dir='/home/ubuntu/Academic/starlink'
+file_run='run.sh'
+file_integration='integration.sh'
+file_lookup='lookup.sh'
+
+cd ${starlink_dir} && echo 'working dir: '`pwd`
+
+# 以下所有脚本若运行失败，则exit 1
+# 子目录均使用相对路径, 需要提前cd
+
+
+# 运行AS_*, geoip_*, hostname目录中的run.sh
+echo
+echo 'raw data collection - AS, geoip, hostname'
+date
+run_path=('AS_from_bgpHE' 'AS_from_ipinfo' 'AS_from_Rtable' 'geoip_from_starlink' 'hostname')
+for p in ${run_path[@]}; do
+        cd ${starlink_dir}/${p} && echo 'working dir: '`pwd`
+        ./${file_run} || (echo "error file - ${p}/${file_run}" ; exit 1)
+done
+
+# 数据整合与去重
+echo
+echo 'integration'
+date
+cd ${starlink_dir}/integration && echo 'working dir: '`pwd`
+./${file_integration} || (echo "error file - integration/${file_integration}" ; exit 1)
+
+
+# 数据查询
+echo
+echo 'data lookup after integration'
+date
+cd ${starlink_dir}/lookup && echo 'working dir: '`pwd`
+./${file_lookup} || (echo "error file - lookup/${file_lookup}" ; exit 1)
+
+
+# end: 数据统计report, 数据备份...
+echo
+cd ${starlink_dir} && echo 'working dir: '`pwd`
+echo 'generate report'
+python3  utility/count.py >> report || \
+(echo "error file - utility/count.py" ; exit 1)
+echo 'end: database backup'
+python3 utility/backup_db.py || \
+(echo "error file - utility/backup_db.py" ; exit 1)
+
+echo
+date
+echo '---starCollect done---'

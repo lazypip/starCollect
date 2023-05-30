@@ -1,0 +1,376 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-04-27 16:09 CST
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.2)
+Host is up (0.27s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.13)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.14)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.23)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.25)
+Host is up (0.25s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.55)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.58)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.66)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.72)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.84)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.91)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.102)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.116)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.123)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.129)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.161)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.180)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.182)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.215)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.222)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.223)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.237)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.241)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.245)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.96.247)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.1)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.9)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.14)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.23)
+Host is up (0.16s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.27)
+Host is up (0.25s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.29)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.38)
+Host is up (0.16s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.43)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.59)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.67)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.79)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.109)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.110)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.112)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.113)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.120)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.127)
+Host is up (0.23s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.131)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.134)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.140)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.142)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.153)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.171)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.172)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.180)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.196)
+Host is up (0.24s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.209)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.214)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.221)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.97.240)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.18)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.31)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.46)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.70)
+Host is up (0.23s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.72)
+Host is up (0.25s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.85)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.90)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.96)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.106)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.127)
+Host is up (0.26s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.146)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.175)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.185)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.187)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.189)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.215)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.236)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.239)
+Host is up (0.34s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.98.246)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.2)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.21)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.28)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.48)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.65)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.70)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.73)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.78)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.88)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.99)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.118)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.152)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.175)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.176)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.182)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.190)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.202)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.203)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.226)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.234)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.243)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.248)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.99.254)
+Host is up (0.23s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.1)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.8)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.13)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.22)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.25)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.37)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.88)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.92)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.111)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.126)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.131)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.140)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.147)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.153)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.156)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.175)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.182)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.189)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.194)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.195)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.209)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.223)
+Host is up (0.23s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.234)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.241)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.100.252)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.55)
+Host is up (0.24s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.83)
+Host is up (0.16s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.89)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.103)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.105)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.107)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.117)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.121)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.123)
+Host is up (0.16s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.132)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.141)
+Host is up (0.26s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.142)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.147)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.149)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.162)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.168)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.181)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.218)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.233)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.242)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.101.243)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.11)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.16)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.23)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.33)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.38)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.53)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.60)
+Host is up (0.23s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.81)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.91)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.108)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.128)
+Host is up (0.33s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.151)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.165)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.171)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.172)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.173)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.176)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.183)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.186)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.212)
+Host is up (0.23s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.102.245)
+Host is up (0.26s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.31)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.36)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.40)
+Host is up (0.17s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.46)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.48)
+Host is up (0.20s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.64)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.73)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.75)
+Host is up (0.25s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.87)
+Host is up (0.26s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.93)
+Host is up (0.22s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.115)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.120)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.121)
+Host is up (0.27s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.123)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.125)
+Host is up (0.24s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.162)
+Host is up (0.18s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.165)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.166)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.170)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.221)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.232)
+Host is up (0.21s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.236)
+Host is up (0.19s latency).
+Nmap scan report for customer.sttlwax1.pop.starlinkisp.net (98.97.103.249)
+Host is up (0.20s latency).
+Nmap done: 2048 IP addresses (187 hosts up) scanned in 51.43 seconds

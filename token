@@ -1,0 +1,8 @@
+# source ./token
+
+export token_ipinfo=''
+
+# export token_ipinfo_free=''  # google
+export token_ipinfo_free=''  # github
+
+export token_shodan=''

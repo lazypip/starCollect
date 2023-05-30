@@ -1,0 +1,554 @@
+[
+    {
+      "ID": 1,
+      "NAME": "FRA1",
+      "LOCATION": "Frankfurt - Germany",
+      "LAT": 50.11090087890625,
+      "LON": 8.682129859924317,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 2,
+      "NAME": "FRA2",
+      "LOCATION": "Frankfurt - Germany",
+      "LAT": 50.11090087890625,
+      "LON": 8.682129859924317,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 3,
+      "NAME": "LHR1",
+      "LOCATION": "London - United Kingdom",
+      "LAT": 51.50740051269531,
+      "LON": -0.1277579963207245,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 4,
+      "NAME": "LHR2",
+      "LOCATION": "London - United Kingdom",
+      "LAT": 51.50740051269531,
+      "LON": -0.1277579963207245,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 5,
+      "NAME": "SYD1",
+      "LOCATION": "Sydney - Australia",
+      "LAT": -33.867801666259769,
+      "LON": 151.20730590820313,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 6,
+      "NAME": "SYD2",
+      "LOCATION": "Sydney - Australia",
+      "LAT": -33.867801666259769,
+      "LON": 151.20730590820313,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 7,
+      "NAME": "LAX1",
+      "LOCATION": "Los Angeles - United States",
+      "LAT": 34.05220031738281,
+      "LON": -118.24369812011719,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 8,
+      "NAME": "LAX2",
+      "LOCATION": "Los Angeles - United States",
+      "LAT": 34.05220031738281,
+      "LON": -118.24369812011719,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 9,
+      "NAME": "SEA1",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 10,
+      "NAME": "SEA2",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 11,
+      "NAME": "ORD1",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 12,
+      "NAME": "ORD2",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 13,
+      "NAME": "LGA1",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 14,
+      "NAME": "LGA1",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 15,
+      "NAME": "MIA1",
+      "LOCATION": "Miami - United States",
+      "LAT": 25.77429962158203,
+      "LON": -80.1937026977539,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 16,
+      "NAME": "MIA2",
+      "LOCATION": "Miami - United States",
+      "LAT": 25.77429962158203,
+      "LON": -80.1937026977539,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 17,
+      "NAME": "DFW1",
+      "LOCATION": "Dallas - United States",
+      "LAT": 32.78310012817383,
+      "LON": -96.80670166015625,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 18,
+      "NAME": "DFW2",
+      "LOCATION": "Dallas - United States",
+      "LAT": 32.78310012817383,
+      "LON": -96.80670166015625,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 19,
+      "NAME": "DEN1",
+      "LOCATION": "Denver - United States",
+      "LAT": 39.739200592041019,
+      "LON": -104.98470306396485,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 20,
+      "NAME": "DEN2",
+      "LOCATION": "Denver - United States",
+      "LAT": 39.739200592041019,
+      "LON": -104.98470306396485,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 21,
+      "NAME": "SJC1",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 22,
+      "NAME": "SJC2",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 23,
+      "NAME": "IAD1",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 24,
+      "NAME": "IAD2",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 25,
+      "NAME": "LAX3",
+      "LOCATION": "Los Angeles - United States",
+      "LAT": 34.05220031738281,
+      "LON": -118.24369812011719,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 26,
+      "NAME": "LAX4",
+      "LOCATION": "Los Angeles - United States",
+      "LAT": 34.05220031738281,
+      "LON": -118.24369812011719,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 27,
+      "NAME": "ORD3",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 28,
+      "NAME": "ORD4",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 29,
+      "NAME": "LGA3",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 30,
+      "NAME": "LGA4",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 31,
+      "NAME": "SEA5",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 32,
+      "NAME": "SEA6",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 33,
+      "NAME": "SEA3",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 34,
+      "NAME": "SEA4",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 35,
+      "NAME": "SJC3",
+      "LOCATION": "San Jose - United States",
+      "LAT": 37.33940124511719,
+      "LON": -121.8949966430664,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 36,
+      "NAME": "SJC4",
+      "LOCATION": "San Jose - United States",
+      "LAT": 37.33940124511719,
+      "LON": -121.8949966430664,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 37,
+      "NAME": "IAD3",
+      "LOCATION": "Ashburn - United States",
+      "LAT": 39.01480484008789,
+      "LON": -77.45928192138672,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 38,
+      "NAME": "IAD4",
+      "LOCATION": "Ashburn - United States",
+      "LAT": 39.01480484008789,
+      "LON": -77.45928192138672,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 39,
+      "NAME": "LAX",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 40,
+      "NAME": "RESERVED",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 41,
+      "NAME": "MAD1",
+      "LOCATION": "Madrid - Spain",
+      "LAT": 40.43669128417969,
+      "LON": -3.6229429244995119,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 42,
+      "NAME": "MAD2",
+      "LOCATION": "Madrid - Spain",
+      "LAT": 40.43669128417969,
+      "LON": -3.6229429244995119,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 43,
+      "NAME": "SOF1",
+      "LOCATION": "Sofia - Bulgaria",
+      "LAT": 42.6555061340332,
+      "LON": 23.37281608581543,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 44,
+      "NAME": "SOF2",
+      "LOCATION": "Sofia - Bulgaria",
+      "LAT": 42.6555061340332,
+      "LON": 23.37281608581543,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 45,
+      "NAME": "SCL1",
+      "LOCATION": "Santiago - Chile",
+      "LAT": -33.35799026489258,
+      "LON": -70.67626190185547,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 46,
+      "NAME": "SCL2",
+      "LOCATION": "Santiago - Chile",
+      "LAT": -33.35799026489258,
+      "LON": -70.67626190185547,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 47,
+      "NAME": "BOG1",
+      "LOCATION": "Bogota - Colombia",
+      "LAT": 4.671383857727051,
+      "LON": -74.1560287475586,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 48,
+      "NAME": "BOG2",
+      "LOCATION": "Bogota - Colombia",
+      "LAT": 4.671383857727051,
+      "LON": -74.1560287475586,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 49,
+      "NAME": "LGA2",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 50,
+      "NAME": "LHR3",
+      "LOCATION": "London - United Kingdom",
+      "LAT": 51.50740051269531,
+      "LON": -0.1277579963207245,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 51,
+      "NAME": "LHR4",
+      "LOCATION": "London - United Kingdom",
+      "LAT": 51.50740051269531,
+      "LON": -0.1277579963207245,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 52,
+      "NAME": "ORD5",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 53,
+      "NAME": "LGA5",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 54,
+      "NAME": "DEN3",
+      "LOCATION": "Denver - United States",
+      "LAT": 39.739200592041019,
+      "LON": -104.98470306396485,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 55,
+      "NAME": "DFW3",
+      "LOCATION": "Dallas - United States",
+      "LAT": 32.78310012817383,
+      "LON": -96.80670166015625,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 56,
+      "NAME": "FRA3",
+      "LOCATION": "Frankfurt - Germany",
+      "LAT": 50.11090087890625,
+      "LON": 8.682129859924317,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 57,
+      "NAME": "IAD5",
+      "LOCATION": "Ashburn - United States",
+      "LAT": 39.01480484008789,
+      "LON": -77.45928192138672,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 58,
+      "NAME": "LGA6",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 59,
+      "NAME": "ORD6",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 60,
+      "NAME": "SPLOBRA1",
+      "LOCATION": "Sao Paulo - Brazil",
+      "LAT": -23.4936580657959,
+      "LON": -46.809539794921878,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 61,
+      "NAME": "STTLWAX1",
+      "LOCATION": "Seattle - United States",
+      "LAT": 47.606201171875,
+      "LON": -122.33209991455078,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 62,
+      "NAME": "NWYYNYX1",
+      "LOCATION": "New York - United States",
+      "LAT": 40.714298248291019,
+      "LON": -74.00599670410156,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 63,
+      "NAME": "FRNTDEU1",
+      "LOCATION": "Frankfurt - Germany",
+      "LAT": 50.11090087890625,
+      "LON": 8.682129859924317,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 64,
+      "NAME": "DLLSTXX1",
+      "LOCATION": "Dallas - United States",
+      "LAT": 32.78310012817383,
+      "LON": -96.80670166015625,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 65,
+      "NAME": "ATLAGAX1",
+      "LOCATION": "Atlanta - United States",
+      "LAT": 33.758567810058597,
+      "LON": -84.38787078857422,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 66,
+      "NAME": "CHCOILX1",
+      "LOCATION": "Chicago - United States",
+      "LAT": 41.849998474121097,
+      "LON": -87.6500015258789,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 67,
+      "NAME": "LNDNGBR1",
+      "LOCATION": "London - United Kingdom",
+      "LAT": 51.50740051269531,
+      "LON": -0.1277579963207245,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 68,
+      "NAME": "LSANCAX1",
+      "LOCATION": "Los Angeles - United States",
+      "LAT": 34.05220031738281,
+      "LON": -118.24369812011719,
+      "CONFIRMED": 1
+    },
+    {
+      "ID": 69,
+      "NAME": "QRTOMEX1",
+      "LOCATION": "Queretaro - Mexico",
+      "LAT": 20.567914962768556,
+      "LON": -100.25414276123047,
+      "CONFIRMED": 1
+    }
+]
